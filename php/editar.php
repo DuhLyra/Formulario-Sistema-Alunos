@@ -37,7 +37,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <body>
     <div id="conteiner">
-        <h1 id="titulo">Editar Aluno</h1>
+        <h1 id="titulo"> - Editar Aluno</h1>
 
         <form action="editar.php" method="POST">
             <!-- Campo oculto guardando o ID do aluno -->
