@@ -1,0 +1,16 @@
+# Configurações locais
+.env
+
+# Banco de dados local
+*.sql
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
